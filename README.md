@@ -15,3 +15,5 @@ The file names consist of four parts: 'Speaker-Gender-Emotion-Text Number'. The 
 
 Specifically, the EMA data describes the movement trajectories of seven sensors placed at: upper lip, lower lip, left lip, right lip, tongue root, middle tongue, and tongue tip.
 The data format is a two-dimensional array, where the first dimension represents time, and the second dimension represents the sensors at different positions (seven in total, in the order of upper lip, lower lip, left lip, right lip, tongue root, middle tongue, and tongue tip). Each sensor measures the X, Y, Z, phi, theta, and RMS values, resulting in a total of 42 dimensions.
+
+If you have any comments or questions, please feel free to email us at ziqianzhang2000@gmail.com. We welcome and appreciate any feedback or inquiries regarding our work.
