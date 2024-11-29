@@ -1,4 +1,4 @@
-The STEM-E2VA data includes three modalities: audio（48kHz，.wav）, EMA (electromagnetic articulography) (250Hz，.mat), and EGG (electroglottograph) (44.1kHz，.wav). Here, we released some samples for review. We will release the whole dataset once we have established the usage license instructions.
+The STEM-E2VA dataset includes three modalities: audio（48kHz，.wav）, EMA (electromagnetic articulography) (250Hz，.mat), and EGG (electroglottograph) (44.1kHz，.wav). Here, we released some samples for review. We will release the whole dataset once we have established the usage license instructions.
 
 # Description of each file folder
 glottalwave: Dual-channel signal, with the first channel as speech and the second channel as EGG .
